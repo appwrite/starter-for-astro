@@ -23,4 +23,4 @@ Clone this repository to your local machine using Git:
 
 ## 💡 Additional notes
 - This starter project is designed to streamline your Astro development with Appwrite.
-- Refer to the [Appwrite documentation](https://appwrite.io/docs) for detailed integration guidance.
+- Refer to the [Appwrite documentation](https://appwrite.io/docs) for detailed integration guidance..
